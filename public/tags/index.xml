@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blowfish</title>
+    <link>//localhost:64212/tags/</link>
+    <description>Recent content in Tags on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tarasova_dasha5@mail.ru (tarassiky)</managingEditor>
+    <webMaster>tarasova_dasha5@mail.ru (tarassiky)</webMaster>
+    <copyright>© 2025 tarassiky</copyright>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:64212/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Space</title>
+      <link>//localhost:64212/tags/space/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <author>tarasova_dasha5@mail.ru (tarassiky)</author>
+      <guid>//localhost:64212/tags/space/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

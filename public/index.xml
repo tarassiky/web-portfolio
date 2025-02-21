@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Добро пожаловать on Blowfish</title>
+    <link>//localhost:51795/</link>
+    <description>Recent content in Добро пожаловать on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tarasova_dasha5@mail.ru (tarassiky)</managingEditor>
+    <webMaster>tarasova_dasha5@mail.ru (tarassiky)</webMaster>
+    <copyright>© 2025 tarassiky</copyright>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:51795/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My first post</title>
+      <link>//localhost:51795/posts/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <author>tarasova_dasha5@mail.ru (tarassiky)</author>
+      <guid>//localhost:51795/posts/</guid>
+      <description>This is my first post on my site</description>
+      
+    </item>
+    
+  </channel>
+</rss>
